@@ -1,5 +1,5 @@
 # Chess-Maze-Robot
-A robot designed to play a modified game of Chess as well as solve a maze.
+A robot designed to play a modified game of Chess as well as solve a maze autonomously.
 <img width="500" alt="Robot Selfie" src="assets/videos/Robot%20Selfie.JPG" />
 
 The robot was funded and sponsored by National Instruments.
