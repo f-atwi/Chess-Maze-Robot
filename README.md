@@ -3,7 +3,7 @@ A robot designed to play a modified game of Chess as well as solve a maze.
 <img width="500" alt="Robot Selfie" src="assets/videos/Robot%20Selfie.JPG" />
 
 The robot was funded and sponsored by National Instruments.
-Made to Participate in the ULFGII Mechatronics Competition.
+Made to Participate in the ULFGII Mechatronics Competition (Ended winning 2nd Place).
 
 The code was made entirely on LabVIEW and used the myRio as a brain. 
 <img width="500" alt="IMG_8066" src="https://github.com/user-attachments/assets/23cbd8b3-45d0-43dc-a99a-01b06b00d121" />
