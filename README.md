@@ -8,7 +8,7 @@ Made to Participate in the ULFGII Mechatronics Competition.
 The code was made entirely on LabVIEW and used the myRio as a brain. 
 <img width="500" alt="IMG_8066" src="https://github.com/user-attachments/assets/23cbd8b3-45d0-43dc-a99a-01b06b00d121" />
 
-The body was build using the NI Tetrix kit.
+The body was built using the NI Tetrix kit.
 [▶ Watch Video](https://github.com/f-atwi/Chess-Maze-Robot/raw/main/assets/videos/Robot_Top_View_with_Grabber_Addon.mp4)
 
 The robot was controlled over bluetooth from a smartphone using a custom made application.
