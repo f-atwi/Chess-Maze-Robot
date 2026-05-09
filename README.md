@@ -10,5 +10,9 @@ The code was made entirely on LabVIEW and used the myRio as a brain.
 The body was build using the NI Tetrix kit.
 
 The robot was controlled over bluetooth from a smartphone using a custom made application.
-
+<p align="center">
+  <video width="700" controls>
+    <source src="assets/videos/bluetooth_control_1.mp4" type="video/mp4">
+  </video>
+</p>
 
